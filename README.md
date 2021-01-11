@@ -2,7 +2,7 @@
 This repo will contain VM configuration files, schema dumps, and UML diagrams for the PomodoroAmigo focus timer database project
 
 ## Schema
-![UML](Pomodoro Amigo DatabaseUML.png)
+![UML](DatabaseUML.png)
 
 ## Design Decisions
 
